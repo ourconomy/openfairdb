@@ -1,3 +1,5 @@
+### Update: Starting from April 2018, this is no longer the latest branch or repository. Please go to [https://github.com/ourconomy/openfxdb](https://github.com/ourconomy/openfxdb) for the current development.
+
 # Open Fair DB with products/services
 
 This experimental fork of Open Fair DB can handle products and services (called 'effects' in the code). 
